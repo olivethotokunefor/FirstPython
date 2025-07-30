@@ -5,7 +5,7 @@ print("Finished")
 
 
 
-if 45 / 5== 24%6:
+if 45 / 5== 45%6:
     print("It is going to work out")
 else: 
     print("Wont work")    
