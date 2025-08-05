@@ -6,5 +6,5 @@
 # print(result)
 
 
-name= input("What's your name? ")
-print("Hello "+ name)
+name= input("What's your favourite bl? ")
+print("It is "+ name)
